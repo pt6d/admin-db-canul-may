@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS practica4;
+
+USE practica4;
